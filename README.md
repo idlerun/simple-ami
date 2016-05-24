@@ -1,5 +1,5 @@
 ---
-page: http://www.idle.run/simple-ami
+page: https://idle.run/simple-ami
 title: Simple AMI from EC2 Instance
 date: 2016-05-06
 tags: aws ec2 python
