@@ -7,7 +7,7 @@ tags: aws ec2 python
 
 Speaks for itself. A simple Python script to create an AMI from an EC2 instance ID.
 
-### Usage
+### [create_ami.py](https://github.com/idlerun/simple-ami/blob/master/create_ami.py)
 
 ```bash
 create_ami.py --instance-id INSTANCE_ID --name NAME
